@@ -17,6 +17,13 @@
 </p>
 
 
+
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=800&color=00FF7F&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Engineer;MLOps+Engineer;Full+Stack+Developer;Cybersecurity+Analyst"/>
+</p>
+
+
 </div>
 
 <div align="center">
