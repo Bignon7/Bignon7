@@ -19,7 +19,7 @@
 # 👋 Bonjour, je suis Laïs HINDEME
 
 
-### 🤖 AI Engineer | Machine Learning Engineer | MLOps Engineer
+### 🤖 Machine Learning Engineer | MLOps Engineer | AI Engineer
 
 
 </div>
@@ -194,7 +194,7 @@ Compétences :
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,numpy,pandas,jupyter"/>
+<img src="https://skillicons.dev/icons?i=python,llama,pytorch,tensorflow,sklearn,numpy,pandas,jupyter"/>
 
 </p>
 
