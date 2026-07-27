@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Bignon7/Bignon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bonjour 👋
 
-Here are some ideas to get you started:
+Je suis Laïs HINDEME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Étudiant en MIAGE
+🤖 Passionné par l'IA et le Machine Learning
+💻 Développeur Full Stack
+☁️ Intéressé par le Cloud et DevOps
+
+## Technologies
+
+- Python
+- Java
+- TypeScript
+- React
+- Next.js
+- Docker
+- Linux
