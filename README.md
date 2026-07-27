@@ -20,7 +20,7 @@
 
 <div align="center">
 
-**[🇬🇧 English](#-english)** &nbsp;|&nbsp; **[🇫🇷 Français](#-français)**
+**[🇺🇸 English](#-english)** &nbsp;|&nbsp; **[🇫🇷 Français](#-français)**
 
 </div>
 
@@ -147,12 +147,12 @@ REST API · Model Monitoring · Cloud Deployment
 ### 💻 Full Stack Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,python,django,php,laravel,bootstrap,tailwindcss,postgres,mysql,sqlite,mongodb"/>
+<img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nextjs,nodejs,express,python,django,php,laravel,bootstrap,tailwindcss,git,github,gitlab,flutter,androidstudio,postgres,mysql,sqlite,mongodb"/>
 </p>
 
 ```
-TypeScript · JavaScript · React · Next.js · Node.js · Express.js
-Python · Django · PHP · Laravel · Prisma
+HTML · CSS · TypeScript · JavaScript · React · Next.js · Node.js · Express.js
+Python · Django · PHP · Laravel · Git · GitHub · GitLab · Flutter · AndroidStudio
 PostgreSQL · MySQL · Tailwind CSS · Bootstrap
 ```
 
