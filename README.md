@@ -2,676 +2,555 @@
      LAÏS HINDEME | AI ENGINEER PORTFOLIO
 ===================================================== -->
 
-
 <div align="right">
 
 <img src="https://komarev.com/ghpvc/?username=Bignon7&label=Profile%20Views&color=014532&style=for-the-badge"/>
 
 </div>
 
-
-
 <div align="center">
-
 
 <img src="https://avatars.githubusercontent.com/u/140757606?v=4" width="100%" />
 
-
-# 👋 Bonjour, je suis Laïs HINDEME
-
+# 👋 Hi, I'm Laïs HINDEME
 
 ### 🤖 AI Engineer | Machine Learning Engineer | MLOps Engineer
 
-
 </div>
-
-
-
-<p align="center">
-
-Je conçois et développe des systèmes intelligents combinant
-<strong>Intelligence Artificielle, Machine Learning,
-MLOps, Développement Logiciel et Cybersécurité</strong>.
-
-Mon objectif est de créer des solutions IA robustes,
-scalables et sécurisées, depuis l'expérimentation des modèles
-jusqu'à leur déploiement en environnement réel.
-
-</p>
-
-
 
 <div align="center">
 
-
-<a href="https://linkedin.com/in/#">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-
-<img src="https://img.shields.io/badge/AI%20Engineer-014532?style=for-the-badge"/>
-
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/Cybersecurity-EF3939?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
+**[🇬🇧 English](#-english)** &nbsp;|&nbsp; **[🇫🇷 Français](#-français)**
 
 </div>
 
+<div align="center">
 
+<a href="https://linkedin.com/in/#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/AI%20Engineer-014532?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-EF3939?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+</div>
 
 <br>
 
+---
 
+# 🇬🇧 English
+
+<p align="center">
+I design and build intelligent systems combining <strong>Artificial Intelligence, Machine Learning, MLOps, Software Engineering, and Cybersecurity</strong>.
+
+My goal is to create robust, scalable, and secure AI solutions — from model experimentation to real-world deployment.
+</p>
 
 ---
 
-# 🧠 Domaines d'expertise
-
-
+## 🧠 Areas of Expertise
 
 <table>
-
-
 <tr>
-
-
 <td width="50%" valign="top">
 
+### 🤖 Artificial Intelligence & Machine Learning
 
-## 🤖 Artificial Intelligence & Machine Learning
-
-
-Développement de systèmes intelligents capables
-d'apprendre à partir des données.
-
-
-Compétences :
+Building intelligent systems that learn from data.
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - Natural Language Processing
-- Model Training
-- Model Evaluation
+- Model Training & Evaluation
 - Feature Engineering
 - Predictive Modeling
 
-
 </td>
-
-
-
 <td width="50%" valign="top">
 
+### 🚀 MLOps & AI Engineering
 
-## 🚀 MLOps & AI Engineering
-
-
-Transformer des modèles expérimentaux
-en solutions exploitables en production.
-
-
-Compétences :
+Turning experimental models into production-ready solutions.
 
 - Model Deployment
-- API d'inférence
-- Dockerisation
-- CI/CD Machine Learning
+- Inference APIs
+- Dockerization
+- ML CI/CD
 - Model Monitoring
-- Optimisation des modèles
-- Architecture IA
-
+- Model Optimization
+- AI Architecture
 
 </td>
-
-
 </tr>
-
-
-
 <tr>
-
-
 <td width="50%" valign="top">
 
+### 💻 Software Engineering
 
-## 💻 Software Engineering
-
-
-Conception d'applications modernes
-et performantes.
-
-
-Compétences :
+Designing modern, high-performance applications.
 
 - Full Stack Development
 - Backend Engineering
 - REST APIs
-- Architecture logicielle
-- Bases de données
-- Applications Web
-
+- Software Architecture
+- Databases
+- Web Applications
 
 </td>
-
-
-
 <td width="50%" valign="top">
 
+### 🔐 Cybersecurity
 
-## 🔐 Cybersecurity
-
-
-Analyse et sécurisation
-des systèmes informatiques.
-
-
-Compétences :
+Analyzing and securing information systems.
 
 - Network Security
 - Vulnerability Assessment
 - Web Security
-- Pentesting
+- Penetration Testing
 - Security Auditing
 - Linux Security
 
-
 </td>
-
-
 </tr>
-
-
 </table>
 
-
-
 ---
 
+## ⚙️ Technologies & Tools
 
-
-# ⚙️ Technologies & Tools
-
-
-
-## 🧠 Machine Learning & Artificial Intelligence
-
+### 🧠 Machine Learning & AI
 
 <p align="center">
-
-
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow,jupyter,streamlit"/>
-
-
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,pytorch,tensorflow,jupyter,streamlit"/>
 </p>
 
-
-
-Technologies :
-
 ```
-Python
-PyTorch
-TensorFlow
-Scikit-Learn
-OpenCV
-YOLO
-Hugging Face
-Transformers
-LLM
-RAG
-LangChain
-Pandas
-NumPy
-Streamlit
+Python · PyTorch · TensorFlow · Scikit-Learn · OpenCV · YOLO
+Hugging Face · Transformers · LLM · RAG · LangChain
+Pandas · NumPy · Streamlit
 ```
 
-
-
----
-
-
-
-## 🚀 MLOps & AI Deployment
-
+### 🚀 MLOps & AI Deployment
 
 <p align="center">
-
-
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,aws"/>
-
-
 </p>
 
-
-
-Technologies :
-
 ```
-FastAPI
-Docker
-Docker Compose
-MLflow
-GitHub Actions
-Linux
-Kubernetes
-ONNX
-TensorFlow Serving
-REST API
-Model Monitoring
-Cloud Deployment
+FastAPI · Docker · Docker Compose · MLflow · GitHub Actions
+Linux · Kubernetes · ONNX · TensorFlow Serving
+REST API · Model Monitoring · Cloud Deployment
 ```
 
-
-
----
-
-
-
-## 💻 Full Stack Development
-
+### 💻 Full Stack Development
 
 <p align="center">
-
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,python,django,php,laravel,bootstrap,tailwindcss,postgres,mysql,sqlite,mongidb"/>
-
-
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,python,django,php,laravel,bootstrap,tailwindcss,postgres,mysql,sqlite,mongodb"/>
 </p>
 
-
-
-Technologies :
-
 ```
-TypeScript
-JavaScript
-React
-Next.js
-Node.js
-Express.js
-Python
-Django
-PHP
-Laravel
-Prisma
-PostgreSQL
-MySQL
-Tailwind CSS
-Bootstrap
+TypeScript · JavaScript · React · Next.js · Node.js · Express.js
+Python · Django · PHP · Laravel · Prisma
+PostgreSQL · MySQL · Tailwind CSS · Bootstrap
 ```
 
-
-
----
-
-
-
-## 🔐 Cybersecurity & Ethical Hacking
-
+### 🔐 Cybersecurity & Ethical Hacking
 
 <p align="center">
-
-
 <img src="https://skillicons.dev/icons?i=linux,bash,docker"/>
-
-
 </p>
 
+**Tools:** Kali Linux · Nmap · Gobuster · Metasploit Framework · Nessus · Burp Suite · Wireshark · Nikto · Hydra · OpenVAS
 
-
-Outils :
-
-```
-Kali Linux
-Nmap
-Gobuster
-Metasploit Framework
-Nessus
-Burp Suite
-Wireshark
-Nikto
-Hydra
-OpenVAS
-```
-
-Domaines :
-
-```
-Network Analysis
-Web Security
-Vulnerability Assessment
-Penetration Testing
-Security Auditing
-```
-
-
+**Domains:** Network Analysis · Web Security · Vulnerability Assessment · Penetration Testing · Security Auditing
 
 ---
 
+## 🚀 Projects & Achievements
 
+### 🛡️ AI Traffic Monitoring System
+*Computer vision for road safety*
 
-# 🚀 Projets & Réalisations
+An intelligent Deep Learning system for:
+- Automatic vehicle detection
+- Helmet-wearing detection
+- Real-time video analysis
+- License plate recognition
+- Traffic violation identification
 
+`Python · YOLO · OpenCV · Deep Learning · Computer Vision`
 
+### 🤖 Machine Learning Applications
 
-## 🛡️ AI Traffic Monitoring System
+Models built for:
+- Automated classification
+- Prediction
+- Data analysis
+- Pattern detection
+- Intelligent automation
 
+`Python · Scikit-Learn · PyTorch · TensorFlow · Pandas · NumPy`
 
-### Vision par ordinateur pour la sécurité routière
+### 🌐 Full Stack Applications
 
+End-to-end web applications featuring:
+- Modern interfaces
+- REST APIs
+- Authentication
+- User management
+- Databases
+
+`React · Next.js · TypeScript · Node.js · Express · PostgreSQL · Prisma`
+
+### 🔐 Cybersecurity Labs
+
+Hands-on security work:
+- Network reconnaissance
+- Service analysis
+- Vulnerability research
+- Web security testing
+- Application auditing
+
+`Nmap · Gobuster · Metasploit · Nessus · Burp Suite · Wireshark · Kali Linux`
+
+---
+
+## 🏗️ Engineering Vision
+
+A complete intelligent solution requires several layers:
+
+```
+              Problem
+                 |
+                 ↓
+          Data Collection
+                 |
+                 ↓
+          AI / ML Model
+                 |
+                 ↓
+            API Layer
+                 |
+                 ↓
+       Application Software
+                 |
+                 ↓
+      Deployment & Monitoring
+                 |
+                 ↓
+            Security
+```
+
+My approach combines: performant AI models, clean software architecture, automated deployment, and system security.
+
+---
+
+## 🔬 Research Interests
+
+Computer Vision · Autonomous Systems · Robotics & AI · Deep Learning · Edge AI · Intelligent Systems · AI Security
+
+---
+
+## 🏆 Certifications & Achievements
+
+- Machine Learning Engineer — ISHEERO × DataCamp
+- Artificial Intelligence Projects
+- Software Engineering Projects
+- Cybersecurity Labs
+
+---
+
+## 📚 Currently Learning
+
+Advanced Machine Learning · MLOps · Computer Vision · Autonomous Systems · Robotics & AI · Cloud Architecture · Cybersecurity
+
+---
+
+<div align="center">
+
+**[⬆ Back to top](#) &nbsp;|&nbsp; [🇫🇷 Voir en français](#-français)**
+
+</div>
+
+<br>
+
+---
+
+# 🇫🇷 Français
+
+<p align="center">
+Je conçois et développe des systèmes intelligents combinant <strong>Intelligence Artificielle, Machine Learning, MLOps, Développement Logiciel et Cybersécurité</strong>.
+
+Mon objectif est de créer des solutions IA robustes, scalables et sécurisées, depuis l'expérimentation des modèles jusqu'à leur déploiement en environnement réel.
+</p>
+
+---
+
+## 🧠 Domaines d'expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Intelligence Artificielle & Machine Learning
+
+Développement de systèmes intelligents capables d'apprendre à partir des données.
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Traitement du langage naturel (NLP)
+- Entraînement & évaluation de modèles
+- Feature Engineering
+- Modélisation prédictive
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 MLOps & AI Engineering
+
+Transformer des modèles expérimentaux en solutions exploitables en production.
+
+- Déploiement de modèles
+- API d'inférence
+- Dockerisation
+- CI/CD Machine Learning
+- Monitoring des modèles
+- Optimisation des modèles
+- Architecture IA
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Développement Logiciel
+
+Conception d'applications modernes et performantes.
+
+- Full Stack Development
+- Backend Engineering
+- APIs REST
+- Architecture logicielle
+- Bases de données
+- Applications Web
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Cybersécurité
+
+Analyse et sécurisation des systèmes informatiques.
+
+- Sécurité réseau
+- Évaluation des vulnérabilités
+- Sécurité web
+- Tests d'intrusion (Pentesting)
+- Audit de sécurité
+- Sécurité Linux
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Technologies & Outils
+
+### 🧠 Machine Learning & IA
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,pytorch,tensorflow,jupyter,streamlit"/>
+</p>
+
+```
+Python · PyTorch · TensorFlow · Scikit-Learn · OpenCV · YOLO
+Hugging Face · Transformers · LLM · RAG · LangChain
+Pandas · NumPy · Streamlit
+```
+
+### 🚀 MLOps & Déploiement IA
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,aws"/>
+</p>
+
+```
+FastAPI · Docker · Docker Compose · MLflow · GitHub Actions
+Linux · Kubernetes · ONNX · TensorFlow Serving
+REST API · Model Monitoring · Cloud Deployment
+```
+
+### 💻 Développement Full Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,python,django,php,laravel,bootstrap,tailwindcss,postgres,mysql,sqlite,mongodb"/>
+</p>
+
+```
+TypeScript · JavaScript · React · Next.js · Node.js · Express.js
+Python · Django · PHP · Laravel · Prisma
+PostgreSQL · MySQL · Tailwind CSS · Bootstrap
+```
+
+### 🔐 Cybersécurité & Ethical Hacking
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,docker"/>
+</p>
+
+**Outils :** Kali Linux · Nmap · Gobuster · Metasploit Framework · Nessus · Burp Suite · Wireshark · Nikto · Hydra · OpenVAS
+
+**Domaines :** Analyse réseau · Sécurité web · Évaluation des vulnérabilités · Tests d'intrusion · Audit de sécurité
+
+---
+
+## 🚀 Projets & Réalisations
+
+### 🛡️ AI Traffic Monitoring System
+*Vision par ordinateur pour la sécurité routière*
 
 Système intelligent basé sur le Deep Learning permettant :
-
 - Détection automatique des véhicules
 - Détection du port du casque
 - Analyse vidéo temps réel
 - Reconnaissance des plaques
 - Identification d'infractions
 
+`Python · YOLO · OpenCV · Deep Learning · Computer Vision`
 
-Technologies :
-
-```
-Python
-YOLO
-OpenCV
-Deep Learning
-Computer Vision
-```
-
-
-
----
-
-
-
-## 🤖 Machine Learning Applications
-
+### 🤖 Machine Learning Applications
 
 Développement de modèles capables de :
-
 - Classification automatique
 - Prédiction
 - Analyse de données
 - Détection de patterns
 - Automatisation intelligente
 
+`Python · Scikit-Learn · PyTorch · TensorFlow · Pandas · NumPy`
 
-Stack :
+### 🌐 Applications Full Stack
 
-```
-Python
-Scikit-Learn
-PyTorch
-TensorFlow
-Pandas
-NumPy
-```
-
-
-
----
-
-
-
-## 🌐 Full Stack Applications
-
-
-Création d'applications web complètes.
-
-
-Fonctionnalités :
-
+Création d'applications web complètes :
 - Interfaces modernes
 - APIs REST
 - Authentification
 - Gestion utilisateurs
 - Bases de données
 
+`React · Next.js · TypeScript · Node.js · Express · PostgreSQL · Prisma`
 
-Technologies :
+### 🔐 Cybersecurity Labs
 
-```
-React
-Next.js
-TypeScript
-Node.js
-Express
-PostgreSQL
-Prisma
-```
-
-
-
----
-
-
-
-## 🔐 Cybersecurity Labs
-
-
-Exploration pratique de la sécurité informatique.
-
-
-Travaux réalisés :
-
+Travaux pratiques de sécurité :
 - Reconnaissance réseau
 - Analyse de services
 - Recherche de vulnérabilités
 - Tests de sécurité web
 - Audit d'applications
 
-
-Outils :
-
-```
-Nmap
-Gobuster
-Metasploit
-Nessus
-Burp Suite
-Wireshark
-Kali Linux
-```
-
-
+`Nmap · Gobuster · Metasploit · Nessus · Burp Suite · Wireshark · Kali Linux`
 
 ---
 
-
-
-# 🏗️ Engineering Vision
-
-
+## 🏗️ Vision d'ingénierie
 
 Une solution intelligente complète nécessite plusieurs couches :
 
-
-
 ```
-
               Problem
-
                  |
                  ↓
-
           Data Collection
-
                  |
                  ↓
-
           AI / ML Model
-
                  |
                  ↓
-
             API Layer
-
                  |
                  ↓
-
        Application Software
-
                  |
                  ↓
-
       Deployment & Monitoring
-
                  |
                  ↓
-
             Security
-
-
 ```
 
-
-
-Mon approche combine :
-
-- Modèles IA performants
-- Architecture logicielle propre
-- Déploiement automatisé
-- Sécurité des systèmes
-
-
+Mon approche combine : modèles IA performants, architecture logicielle propre, déploiement automatisé, sécurité des systèmes.
 
 ---
 
+## 🔬 Centres de recherche
 
-
-# 🔬 Research Interests
-
-
-
-- Computer Vision
-- Autonomous Systems
-- Robotics & AI
-- Deep Learning
-- Edge AI
-- Intelligent Systems
-- AI Security
-
-
+Computer Vision · Systèmes autonomes · Robotique & IA · Deep Learning · Edge AI · Systèmes intelligents · AI Security
 
 ---
 
+## 🏆 Certifications & Réalisations
 
-
-# 🏆 Certifications & Achievements
-
-
-
-```
-Machine Learning Engineer
-ISHEERO × DataCamp
-
-
-Artificial Intelligence Projects
-
-
-Software Engineering Projects
-
-
-Cybersecurity Labs
-
-```
-
-
+- Machine Learning Engineer — ISHEERO × DataCamp
+- Projets en Intelligence Artificielle
+- Projets en Génie Logiciel
+- Cybersecurity Labs
 
 ---
 
+## 📚 En cours d'apprentissage
 
-
-# 📚 Currently Learning
-
-
-
-- Advanced Machine Learning
-- MLOps
-- Computer Vision
-- Autonomous Systems
-- Robotics & AI
-- Cloud Architecture
-- Cybersecurity
-
-
+Machine Learning avancé · MLOps · Computer Vision · Systèmes autonomes · Robotique & IA · Architecture Cloud · Cybersécurité
 
 ---
-
-
-
-# 📈 GitHub Analytics
-
-
 
 <div align="center">
 
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=Bignon7&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-
-
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bignon7&layout=compact&theme=tokyonight"/>
-
+**[⬆ Retour en haut](#) &nbsp;|&nbsp; [🇬🇧 View in English](#-english)**
 
 </div>
-
-
 
 <br>
 
+---
 
+# 📈 GitHub Analytics
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bignon7&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bignon7&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Bignon7&theme=tokyonight"/>
 
-
 </div>
 
-
-
 ---
-
-
 
 # 🐍 Contribution Activity
 
-
-
 <div align="center">
-
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 
-
 </div>
-
-
 
 ---
 
-
-
 <div align="center">
-
 
 ## 🚀 Building Intelligent & Secure Systems
 
-
-
-Open to collaborations, research projects,
-internships and innovative AI challenges.
-
+Open to collaborations, research projects, internships and innovative AI challenges.
+Ouvert aux collaborations, projets de recherche, stages et défis IA innovants.
 
 </div>
