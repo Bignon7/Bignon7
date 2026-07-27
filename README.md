@@ -6,14 +6,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=Bignon7&label=Profile%20Views&color=014532&style=for-the-badge"/>
 
-<p align="center">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=AI+Engineer;Machine+Learning+Engineer;MLOps+Engineer;Full+Stack+Developer;Cybersecurity+Analyst&animation=slide&color=A855F7&background=00000000&size=24&font=monospace&duration=3000&pause=1000&width=700&height=60&center=true&vCenter=true&repeat=true" />
-</p>
 </div>
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/140757606?v=4" width="100%" />
+<p align="center">
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=AI+Engineer;Machine+Learning+Engineer;MLOps+Engineer;Full+Stack+Developer;Cybersecurity+Analyst&animation=slide&color=A855F7&background=00000000&size=24&font=monospace&duration=3000&pause=1000&width=700&height=60&center=true&vCenter=true&repeat=true" />
+</p>
 
 # 👋 Hi, I'm Laïs HINDEME
 
