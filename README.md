@@ -7,14 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=Bignon7&label=Profile%20Views&color=014532&style=for-the-badge"/>
 
 <p align="center">
-  <marquee behavior="scroll" direction="up" height="90" scrollamount="2"
-    style="font-family:'JetBrains Mono', monospace; font-size:22px; font-weight:600; color:#A855F7;">
-    AI Engineer<br/>
-    Machine Learning Engineer<br/>
-    MLOps Engineer<br/>
-    Full Stack Developer<br/>
-    Cybersecurity Analyst<br/>
-  </marquee>
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=AI+Engineer;Machine+Learning+Engineer;MLOps+Engineer;Full+Stack+Developer;Cybersecurity+Analyst&animation=slide&color=A855F7&background=00000000&size=24&font=monospace&duration=3000&pause=1000&width=700&height=60&center=true&vCenter=true&repeat=true" />
 </p>
 </div>
 
