@@ -5,39 +5,46 @@
 
 <div align="right">
 
-<img src="https://komarev.com/ghpvc/?Bignon7=Bignon7&label=Profile%20Views&color=014532&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Bignon7&label=Profile%20Views&color=014532&style=for-the-badge"/>
 
 </div>
 
 
 <div align="center">
 
-<img src="https://i.imgur.com/IMAGE.png" width="100%" />
+
+<img src="URL_DE_TA_BANNIERE" width="100%" />
+
 
 # 👋 Bonjour, je suis Laïs HINDEME
 
-### 🤖 AI Engineer | Machine Learning Engineer | Data Engineer
+
+### 🤖 AI Engineer | Machine Learning Engineer | MLOps Engineer
+
 
 </div>
+
 
 
 <p align="center">
 
-Construire des systèmes intelligents à partir des données.
+Passionné par la conception de systèmes intelligents,
+je développe des solutions combinant
+<strong>Intelligence Artificielle, Machine Learning,
+Développement Logiciel et Cybersécurité</strong>.
 
-Je m'intéresse à la conception de solutions combinant
-<strong>Intelligence Artificielle, Data Engineering, Cybersécurité
-et développement logiciel</strong>.
-
-Mon objectif est de transformer des idées innovantes
-en systèmes fiables, performants et déployables.
+Mon objectif est de transformer les données et les modèles
+d'intelligence artificielle en applications fiables,
+sécurisées et déployables en production.
 
 </p>
 
 
+
 <div align="center">
 
-<a href="https://linkedin.com/in/LINKEDIN">
+
+<a href="https://linkedin.com/in/TON_LINKEDIN">
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
@@ -46,9 +53,17 @@ en systèmes fiables, performants et déployables.
 
 <img src="https://img.shields.io/badge/AI%20Engineer-014532?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Cybersecurity-EF3939?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
 
 </div>
+
+
+<br>
 
 
 ---
@@ -60,68 +75,101 @@ en systèmes fiables, performants et déployables.
 
 <tr>
 
-<td width="50%">
+
+<td width="50%" valign="top">
 
 
-## 🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence & Machine Learning
+
+
+Développement de systèmes intelligents basés sur les données.
+
+
+Compétences :
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- NLP
-- Model Optimization
-- Predictive Systems
+- Natural Language Processing
+- Model Training
+- Model Evaluation
+- Feature Engineering
+- Predictive Modeling
 
 
 </td>
 
 
-<td width="50%">
+
+<td width="50%" valign="top">
 
 
-## 📊 Data Engineering
+## 🚀 MLOps & AI Engineering
 
-- Data Processing
-- ETL Pipelines
-- Database Design
-- Data Analysis
-- Data Management
+
+Passer du modèle expérimental à une solution exploitable.
+
+
+Compétences :
+
+- Model Deployment
+- API d'inférence
+- Dockerisation
+- CI/CD
+- Monitoring des modèles
+- Optimisation des performances
+- Architecture IA
 
 
 </td>
+
 
 </tr>
 
 
-
 <tr>
 
-<td>
+
+<td width="50%" valign="top">
 
 
-## 🔐 Cybersecurity
+## 💻 Software Engineering
 
-- Network Security
-- Vulnerability Assessment
-- Linux Security
-- Ethical Hacking
-- Security Monitoring
+
+Conception d'applications modernes et robustes.
+
+
+Compétences :
+
+- Full Stack Development
+- Backend Engineering
+- REST APIs
+- Architecture logicielle
+- Bases de données
+- Applications Web
 
 
 </td>
 
 
 
-<td>
+<td width="50%" valign="top">
 
 
-## 💻 Software Engineering
+## 🔐 Cybersecurity
 
-- Full Stack Development
-- API Design
-- Cloud Deployment
-- DevOps
-- Microservices
+
+Analyse et sécurisation des systèmes informatiques.
+
+
+Compétences :
+
+- Network Security
+- Vulnerability Assessment
+- Web Security
+- Pentesting
+- Security Auditing
+- Linux Security
 
 
 </td>
@@ -140,7 +188,8 @@ en systèmes fiables, performants et déployables.
 # ⚙️ Technologies & Tools
 
 
-## 🧠 Machine Learning & Data Science
+
+## 🧠 Machine Learning & Artificial Intelligence
 
 
 <p align="center">
@@ -150,57 +199,132 @@ en systèmes fiables, performants et déployables.
 </p>
 
 
+Technologies :
+
+```
+Python
+PyTorch
+TensorFlow
+Scikit-Learn
+OpenCV
+YOLO
+Hugging Face
+Transformers
+Pandas
+NumPy
+```
+
+
+
 ---
 
-## 📊 Data Engineering
+
+## 🚀 MLOps & Deployment
 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,sqlite"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,fastapi,nginx"/>
 
 </p>
 
 
+Technologies :
+
+```
+FastAPI
+Docker
+Docker Compose
+MLflow
+GitHub Actions
+Linux
+Kubernetes
+REST API
+Model Serving
+```
+
+
+
 ---
 
-## 🌐 Development
+
+## 💻 Full Stack Development
 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,java"/>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,java,postgres"/>
 
 </p>
 
 
+Technologies :
+
+```
+TypeScript
+JavaScript
+React
+Next.js
+Node.js
+Express.js
+Java
+Prisma
+PostgreSQL
+SQL
+```
+
+
+
 ---
 
-## 🚀 DevOps & Cloud
+
+## 🔐 Cybersecurity & Ethical Hacking
 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,githubactions,nginx"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker"/>
 
 </p>
 
 
+Outils :
+
+```
+Kali Linux
+Nmap
+Gobuster
+Metasploit Framework
+Nessus
+Burp Suite
+Wireshark
+Nikto
+Hydra
+OpenVAS
+```
+
+
+
 ---
+
+
 
 # 🚀 Projets & Réalisations
 
 
 
-## 🛡️ Système intelligent de détection d'infractions routières
+## 🛡️ AI Traffic Monitoring System
 
 
-Projet basé sur la vision par ordinateur permettant :
+### Vision par ordinateur pour la sécurité routière
+
+
+Projet basé sur l'intelligence artificielle permettant :
 
 - Détection automatique des véhicules
 - Détection du port du casque
-- Reconnaissance des plaques
 - Analyse vidéo temps réel
+- Reconnaissance des plaques d'immatriculation
 
 
 Technologies :
@@ -213,23 +337,27 @@ Deep Learning
 Computer Vision
 ```
 
+
+
 ---
 
 
-## 🤖 Applications Machine Learning
+
+## 🤖 Machine Learning Applications
 
 
-Développement de modèles capables de :
+Développement de modèles prédictifs capables de :
 
-- Classification
-- Prédiction
+- Classification automatique
 - Analyse de données
-- Extraction de connaissances
+- Détection de patterns
+- Prédictions intelligentes
 
 
 Stack :
 
 ```
+Python
 Scikit-Learn
 TensorFlow
 PyTorch
@@ -238,18 +366,24 @@ NumPy
 ```
 
 
+
 ---
 
 
-## 🌐 Applications Full Stack
+
+## 🌐 Full Stack Applications
 
 
-Création d'applications modernes :
+Création d'applications web modernes.
 
-- Interfaces React/Next.js
+
+Fonctionnalités :
+
+- Interfaces utilisateur responsives
 - APIs REST
 - Authentification
-- Bases PostgreSQL
+- Gestion des utilisateurs
+- Bases de données
 
 
 Technologies :
@@ -259,33 +393,41 @@ React
 Next.js
 TypeScript
 Node.js
-Prisma
+Express
 PostgreSQL
+Prisma
 ```
+
 
 
 ---
 
 
-## 🔐 Cybersécurité
+
+## 🔐 Cybersecurity Labs
 
 
-Travaux autour de :
+Exploration des techniques de sécurité informatique.
+
+
+Travaux réalisés :
 
 - Analyse réseau
-- Tests de sécurité
-- Linux
-- Sécurisation des applications
+- Reconnaissance système
+- Tests de vulnérabilités
+- Audit d'applications
 
 
 Outils :
 
 ```
-Kali Linux
 Nmap
-Wireshark
+Gobuster
+Metasploit
+Nessus
 Burp Suite
-Docker
+Wireshark
+Kali Linux
 ```
 
 
@@ -293,43 +435,95 @@ Docker
 ---
 
 
-# 🏗️ Architecture & Vision
+
+# 🏗️ Vision Architecture
 
 
-Je considère l'IA comme un système complet.
+Une solution intelligente complète doit intégrer plusieurs couches :
 
-
-Une solution intelligente nécessite :
 
 ```
-        DATA
-          |
-          ↓
-  Data Engineering
-          |
-          ↓
- Machine Learning Model
-          |
-          ↓
-       API
-          |
-          ↓
- Application utilisateur
-          |
-          ↓
- Monitoring & Security
+
+              DATA
+                |
+                ↓
+
+        Machine Learning Model
+
+                |
+                ↓
+
+             API Layer
+
+                |
+                ↓
+
+        Application utilisateur
+
+                |
+                ↓
+
+       Deployment & Monitoring
+
+                |
+                ↓
+
+          Security Layer
+
+
 ```
+
 
 
 Mon approche combine :
 
-- qualité des données
-- performance des modèles
-- architecture logicielle
-- sécurité
+- Modèles IA performants
+- Architecture logicielle propre
+- Déploiement automatisé
+- Sécurité des systèmes
+
 
 
 ---
+
+
+
+# 🏆 Certifications & Formations
+
+
+```
+Machine Learning Engineer
+ISHEERO × DataCamp
+
+Master MIAGE
+Université de Rennes
+
+Développement logiciel
+Intelligence Artificielle
+Cybersécurité
+```
+
+
+
+---
+
+
+
+# 📚 Currently Learning
+
+
+- Advanced Machine Learning
+- MLOps
+- Computer Vision
+- Autonomous Systems
+- Robotics & AI
+- Cloud Architecture
+- Cybersecurity
+
+
+
+---
+
 
 
 # 📈 GitHub Analytics
@@ -339,11 +533,11 @@ Mon approche combine :
 
 
 <img width="49%"
-src="https://github-readme-stats.vercel.app/api?Bignon7=Bignon7&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=Bignon7&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
 
 <img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?Bignon7=Bignon7&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bignon7&layout=compact&theme=tokyonight"/>
 
 
 </div>
@@ -352,10 +546,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?Bignon7=Bignon7&layou
 <br>
 
 
+
 <div align="center">
 
 
-<img src="https://github-profile-trophy.vercel.app/?Bignon7=Bignon7&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Bignon7&theme=tokyonight"/>
 
 
 </div>
@@ -363,14 +558,18 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?Bignon7=Bignon7&layou
 
 
 ---
+
 
 
 # 🐍 Contribution Activity
 
 
+
 <div align="center">
 
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
 
 </div>
 
@@ -379,23 +578,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?Bignon7=Bignon7&layou
 ---
 
 
-# 📚 Currently Learning
-
-
-- Advanced Machine Learning
-- MLOps
-- Cloud Architecture
-- Robotics & Autonomous Systems
-- Cybersecurity
-
-
----
-
 
 <div align="center">
 
-## 🚀 Building the future with AI
 
-Open to collaborations, research projects and innovative ideas.
+## 🚀 Building Intelligent & Secure Systems
+
+
+Open to collaborations, research projects,
+internships and innovative AI challenges.
+
 
 </div>
