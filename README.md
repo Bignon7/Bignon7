@@ -6,6 +6,17 @@
 
 <img src="https://komarev.com/ghpvc/?username=Bignon7&label=Profile%20Views&color=014532&style=for-the-badge"/>
 
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Laïs%20Hindeme&fontSize=70"/>
+
+
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;MLOps+Engineer;Cybersecurity+Analyst" />
+</p>
+
+
 </div>
 
 <div align="center">
