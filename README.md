@@ -7,9 +7,15 @@
 <img src="https://komarev.com/ghpvc/?username=Bignon7&label=Profile%20Views&color=014532&style=for-the-badge"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bignon7/Bignon7/main/assets/role-loop.svg" width="700"/>
+  <marquee behavior="scroll" direction="up" height="90" scrollamount="2"
+    style="font-family:'JetBrains Mono', monospace; font-size:22px; font-weight:600; color:#A855F7;">
+    AI Engineer<br/>
+    Machine Learning Engineer<br/>
+    MLOps Engineer<br/>
+    Full Stack Developer<br/>
+    Cybersecurity Analyst<br/>
+  </marquee>
 </p>
-
 </div>
 
 <div align="center">
