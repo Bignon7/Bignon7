@@ -39,7 +39,7 @@
 
 ---
 
-# 🇬🇧 English
+# 🇺🇸 English
 
 <p align="center">
 I design and build intelligent systems combining <strong>Artificial Intelligence, Machine Learning, MLOps, Software Engineering, and Cybersecurity</strong>.
