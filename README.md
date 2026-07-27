@@ -224,7 +224,7 @@ NumPy
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,fastapi,nginx"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,fastapi,nginx,azure,aws"/>
 
 </p>
 
@@ -253,7 +253,7 @@ Model Serving
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,java,postgres"/>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,python,django,php,laravel,bootstrap,tailwindcss,postgres,mysql,"/>
 
 </p>
 
@@ -495,8 +495,6 @@ Mon approche combine :
 Machine Learning Engineer
 ISHEERO × DataCamp
 
-Master MIAGE
-Université de Rennes
 
 Développement logiciel
 Intelligence Artificielle
