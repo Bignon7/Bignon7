@@ -122,7 +122,11 @@ Analyzing and securing information systems.
 ### 🧠 Machine Learning & AI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
