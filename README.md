@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20Engineer-014532?style=for-the-badge&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-014532?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cybersecurity-EF3939?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
@@ -361,7 +361,7 @@ Analyse et sécurisation des systèmes informatiques.
 ### 🧠 Machine Learning & IA
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,pytorch,tensorflow,jupyter,streamlit"/>
+<img src="https://skillicons.dev/icons?i=python,langchain,huggingface,ollama,numpy,pandas,pytorch,tensorflow,jupyter,streamlit"/>
 </p>
 
 ```
